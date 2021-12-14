@@ -11,7 +11,7 @@
             var formData = new FormData($("#profileUp")[0]);
 
             $.ajax({
-                url: "https://ighese.ir/logon.php",
+                url: "https://maggieplc.000webhostapp.com/feedup.php",
                 type: 'POST',
                 data: formData,
                 contentType: false,
